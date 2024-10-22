@@ -11,7 +11,7 @@ This project is a user management system built with React, Axios. It allows user
 
 ## Demo
 
-Check out the live project [here](https://arunkarthik0710-react-axios-task.netlify.app/).
+Check out the live project [here](https://subtle-tartufo-721a2f.netlify.app/).
 
 ---
 
@@ -49,7 +49,7 @@ react-axios-task/
 1. Clone the repository:
 
 ```bash
-git clone https://github.com/arunkarthik0712/react-axios-task.git
+git clone https://github.com/AbiramiManikandan/react-axios-crud.git
 ```
 
 2. Navigate to the project directory:
@@ -74,7 +74,7 @@ npm install
 npm run dev
 ```
 
-2. Open your browser and go to `http://localhost:5173` to see the application.
+2. Open your browser and go to `http://localhost:3000/` to see the application.
 
 ---
 
